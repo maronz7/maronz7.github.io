@@ -264,8 +264,8 @@ img.svg{
 	left: 60px;
 	bottom: 38px;
 }
-.fa-angle-left:before{
-	font-size: 29px;
+.fa-angle-left{
+	font-size: 26px;
 }
 .social_wrap{
 	width: 100%;
