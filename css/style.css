@@ -155,8 +155,7 @@ img.svg{
 	   -moz-transition: all .3s ease;
 	    -ms-transition: all .3s ease;
 	     -o-transition: all .3s ease;
-	        transition: all .3s ease;
-	
+	        transition: all .3s ease;	
 }
 .maro_tm_leftpart_wrap.hide{left: -300px;}
 .maro_tm_leftpart_wrap.opened{left: -300px;}
@@ -264,6 +263,9 @@ img.svg{
 	position: absolute;
 	left: 60px;
 	bottom: 38px;
+}
+.fa-angle-left:before{
+	font-size: 29px;
 }
 .social_wrap{
 	width: 100%;
