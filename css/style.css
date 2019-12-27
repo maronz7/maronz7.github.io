@@ -2759,5 +2759,6 @@ img.svg{
 	.maro_tm_live_schedule_wrap .list_wrap ul li{width: 100%;}
 	.maro_tm_service_step_wrap .list_wrap ul li{width: 100%;}
 	.maro_tm_services_wrap .service-content .content-text{width: 100%;}		
-	.maro_tm_services_wrap .service-content .content-image{width: 100%;}		
+	.maro_tm_services_wrap .service-content .content-image{width: 100%;}
+	.fa-angle-double-down{display: none;}
 }	
