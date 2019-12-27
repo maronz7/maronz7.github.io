@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<meta name="description" content="maroooooonz-portfolio">
+	<meta name="author" content="Marketify">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<title>Kurihara Keisuke | 栗原 恵介</title>
+
+	<!-- STYLES -->
+	<link
+		href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+		rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/plugins.css" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<!--[if lt IE 9]> <script type="text/javascript" src="js/modernizr.custom.js"></script> <![endif]-->
+	<!-- /STYLES -->
+	<script src="https://kit.fontawesome.com/c09a00963d.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+	<!-- WRAPPER ALL -->
+	<div class="maro_tm_wrapper_all">
+		<div id="maro_tm_popup_blog">
+			<div class="container">
+				<div class="inner_popup scrollable"></div>
+			</div>
+			<span class="close"><a href="#"></a></span>
+		</div>
+
+		<!-- PRELOADER -->
+		<div class="maro_tm_preloader">
+			<div class="spinner_wrap">
+				<div class="spinner"></div>
+			</div>
+		</div>
+		<!-- /PRELOADER -->
+
+		<!-- MOBILE MENU -->
+		<div class="maro_tm_mobile_header_wrap">
+			<div class="main_wrap">
+				<div class="logo">
+					<img src="img/logo/olymar_logo_75.png" alt="" />
+				</div>
+				<div class="maro_tm_trigger">
+					<div class="hamburger hamburger--collapse-r">
+						<div class="hamburger-box">
+							<div class="hamburger-inner"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="maro_tm_mobile_menu_wrap">
+				<div class="mob_menu">
+					<ul class="anchor_nav">
+							<li><a href="index.html#home">Home</a></li>
+							<li><a href="index.html#about">About</a></li>
+							<li>
+								<p class="parent-item">Music</p>
+								<ul class="ac-inner">
+									<li class="children-item"><a href="index.html#live-schedule">Live schedule</a></li>
+									<li class="children-item"><a href="portfolio-music.html">Discography</a></li>
+								</ul>
+							</li>
+							<li>
+								<p class="parent-item">Web Development</p>
+								<ul class="ac-inner">
+									<li class="children-item"><a href="index.html#services">Services</a></li>
+									<li class="children-item"><a href="index.html#service-step">Step</a></li>
+									<li class="children-item"><a href="portfolio-web-development.html">Portfolio</a></li>
+								</ul>
+							</li>
+							<li><a href="index.html#works">Works</a></li>
+							<!-- <li><a href="#news">News</a></li> -->
+							<li><a href="index.html/#contact">Contact</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- /MOBILE MENU -->
+
+		<!-- CONTENT -->
+		<div class="maro_tm_content">
+
+			<!-- LEFTPART -->
+			<div class="maro_tm_leftpart_wrap">
+				<div class="leftpart_inner">
+					<div class="logo_wrap">
+						<a href="#"><img src="img/logo/olymar_logo_148.png" alt="" /></a>
+					</div>
+					<div class="menu_list_wrap">
+						<ul class="anchor_nav">
+							<li><a href="index.html#home">Home</a></li>
+							<li><a href="index.html#about">About</a></li>
+							<li>
+								<p class="parent-item">Music</p>
+								<ul class="ac-inner">
+									<li class="children-item"><a href="index.html#live-schedule">Live schedule</a></li>
+									<li class="children-item"><a href="portfolio-music.html">Discography</a></li>
+								</ul>
+							</li>
+							<li>
+								<p class="parent-item">Web Development</p>
+								<ul class="ac-inner">
+									<li class="children-item"><a href="index.html#services">Services</a></li>
+									<li class="children-item"><a href="index.html#service-step">Step</a></li>
+									<li class="children-item"><a href="portfolio-web-development.html">Portfolio</a></li>
+								</ul>
+							</li>
+							<li><a href="index.html#works">Works</a></li>
+							<!-- <li><a href="#news">News</a></li> -->
+							<li><a href="index.html#contact">Contact</a></li>
+						</ul>
+					</div>
+					<a class="maro_tm_resize" href="#"><i class="xcon-angle-left"></i></a>
+				</div>
+			</div>
+			<!-- /LEFTPART -->
+		
+		<!-- RIGHTPART -->
+		<div class="maro_tm_rightpart">
+			<div class="rightpart_inner">
+				<div class="maro_tm_portfolio_single_wrap">
+					<div class="container">
+						<div class="title_holder">
+							<h3 class="not-uppercase-h3">iSara Webサイト模写</h3>
+						</div>
+						<div class="details_area">
+							<div class="detail-explanation">
+								<p>iSaraWebサイトを大まかに模写をしました。
+										<br>※フォントサイズやフォント、細かいpixelは正確ではない場合があります。
+									</p>
+									<a href="https://isara.life/" target="_blank">iSaraWebサイトはこちら</a>
+							</div>
+								<div class="detail-image">
+										<img src="img/portfolio/ iSaraサイト模写.png" alt="">
+								</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				<!-- CONTACT & FOOTER -->
+				<div class="maro_tm_section">
+					<div class="maro_tm_footer_contact_wrapper_all">
+						<div class="maro_tm_footer_wrap">
+							<div class="container">
+								<p>&copy; Copyright 2019. All Rights are Reserved.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /CONTACT & FOOTER -->
+				
+			</div>
+		</div>
+		<!-- /RIGHTPART -->
+		
+		<a class="maro_tm_totop" href="#"></a> 
+		
+	</div>
+</div>
+<!-- / WRAPPER ALL -->
+	
+<!-- SCRIPTS -->
+<script src="js/jquery.js"></script>
+<!--[if lt IE 10]> <script type="text/javascript" src="js/ie8.js"></script> <![endif]-->	
+<script src="js/plugins.js"></script>
+<script src="js/init.js"></script>
+<script src="js/menu-toggle.js"></script>
+<!-- /SCRIPTS -->
+
+</body>
+</html>
